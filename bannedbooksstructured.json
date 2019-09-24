@@ -1,0 +1,128 @@
+{
+    "label": "Banned Books Week",
+    "description": "Books frequently challenged or banned, as compiled by the American Library Association",
+    "list": [
+        {
+            "label": "And Tango Makes Three",
+            "isbns": [
+                "9780689878459"
+            ]
+        },
+        {
+            "label": "Bone: Out from Boneville",
+            "isbns": [
+                "9780545800709"
+            ]
+        },
+        {
+            "label": "The Kite Runner",
+            "isbns": [
+                "9781573222457",
+                "9780743545235",
+                "9781101217238"
+            ]
+        },
+        {
+            "label": "Saga, Volume One",
+            "isbns": [
+                "9781607066019"
+            ]
+        },
+        {
+            "label": "Thirteen Reasons Why",
+            "isbns": [
+                "9781595141712",
+                "9780739361221",
+                "9780141931647",
+                "9780739361238"
+            ]
+        },
+        {
+            "label": "Fifty Shades of Grey",
+            "isbns": [
+                "9780345803481",
+                "9780449808177",
+                "9781612130293",
+                "9780385360166"
+            ]
+        },
+        {
+            "label": "The Curious Incident of the Dog in the Night-time",
+            "isbns": [
+                "9780385509459",
+                "9781400079070",
+                "9781436100700"
+            ]
+        },
+        {
+            "label": "George",
+            "isbns": [
+                "9780545812542"
+            ]
+        },
+        {
+            "label": "Looking for Alaska",
+            "isbns": [
+                "9780525428022",
+                "9781423324454",
+                "9781101434208"
+            ]
+        },
+        {
+            "label": "Beyond Magenta: Transgender Teens Speak Out",
+            "isbns": [
+                "9780763656119",
+                "9780763670351"
+            ]
+        },
+        {
+            "label": "This One Summer",
+            "isbns": [
+                "9781596437746"
+            ]
+        },
+        {
+            "label": "The Hate U Give",
+            "isbns": [
+                "9780062871350",
+                "9780062498557",
+                "9780062677082"
+            ]
+        },
+        {
+            "label": "The Glass Castle",
+            "isbns": [
+                "9780743247535",
+                "9781442339705",
+                "9781442339712",
+                "9781416550600"
+            ]
+        },
+        {
+            "label": "The Hunger Games",
+            "isbns": [
+                "9780439023528",
+                "9780545091022",
+                "9780545229937"
+            ]
+        },
+        {
+            "label": "Nasreen's Secret School",
+            "isbns": [
+                "9781416994374"
+            ]
+        },
+        {
+            "label": "Fun Home",
+            "isbns": [
+                "9780618477944"
+            ]
+        },
+		{
+            "label": "My Mom's Having a Baby",
+            "isbns": [
+                "9780807553442"
+            ]
+        }
+    ]
+}
