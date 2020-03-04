@@ -1,0 +1,134 @@
+{
+    "label": "2020 Tournament of Books Shortlist",
+    "description": "Books featured in the 2020 Tournament of Books",
+    "list": [
+        {
+            "label": "All This Could Be Yours",
+            "isbns": [
+                "9780544824256",
+				"9781094064062",
+				"9780544824270"
+            ]
+        },
+        {
+            "label": "Fleischman Is In Trouble",
+            "isbns": [
+                "9780525510871",
+				"9781432872120",
+				"9780525510888"
+            ]
+        },
+        {
+            "label": "Girl, Woman, Other",
+            "isbns": [
+                "9780802156983",
+                "9781094122151",
+                "9780802156990"
+            ]
+        },
+        {
+            "label": "Golden State",
+            "isbns": [
+                "9780316505413"
+            ]
+        },
+        {
+            "label": "Lost Children Archive",
+            "isbns": [
+                "9780525520610",
+                "9780525520627"
+            ]
+        },
+        {
+            "label": "Mary Toft, or The Rabbit Queen",
+            "isbns": [
+                "9781101871935",
+                "9781101871942"
+            ]
+        },
+        {
+            "label": "Normal People",
+            "isbns": [
+                "9781984822178",
+                "9781984843340",
+                "9781984822192"
+            ]
+        },
+        {
+            "label": "Nothing to See Here",
+            "isbns": [
+                "9780062913463",
+				"9781094027043",
+				"9780062913487",
+				"9780062957863"
+            ]
+        },
+        {
+            "label": "On Earth We're Briefly Gorgeous",
+            "isbns": [
+                "9780525562023",
+                "9780525562030",
+                "9781984888853"
+            ]
+        },
+        {
+            "label": "Optic Nerve",
+            "isbns": [
+                "9781948226165"
+            ]
+        },
+        {
+            "label": "Oval",
+            "isbns": [
+                "9781593764050"
+            ]
+        },
+        {
+            "label": "Overthrow",
+            "isbns": [
+                "9780525560456"
+            ]
+        },
+        {
+            "label": "The Testaments",
+            "isbns": [
+                "9780385543781",
+                "9780593149096",
+                "9780525590453",
+                "9780385543798",
+				"9780525590484"
+            ]
+        },
+        {
+            "label": "Trust Exercise",
+            "isbns": [
+                "9781250309884",
+                "9781250309891",
+                "9781250318824"
+            ]
+        },
+        {
+            "label": "The Water Dancer",
+            "isbns": [
+                "9780399590597",
+				"9780593168196",
+				"9780525494843",
+				"9780399590603",
+				"9780525494874"
+            ]
+        },
+        {
+            "label": "We Cast a Shadow",
+            "isbns": [
+                "9780525509066",
+				"9780525509080"
+            ]
+        },
+		{
+            "label": "Your House Will Pay",
+            "isbns": [
+                "9780062868855"
+            ]
+        }
+    ]
+}
