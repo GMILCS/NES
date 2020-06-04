@@ -1,0 +1,147 @@
+{
+    "label": "2020 Protests Reading Lists",
+    "description": "Anti-racist researcher Victoria Alexander put together reading lists relevant to the current protests.",
+    "list": [
+        {
+            "label": "The Color of Water",
+            "isbns": [
+                "1573220221"
+            ]
+        },
+        {
+            "label": "Early Novels and Stories: James Baldwin",
+            "isbns": [
+                "1883011515"
+            ]
+        },
+        {
+            "label": "Black Like Me",
+            "isbns": [
+                "9780930324728",
+		"0974171115"
+            ]
+        },
+        {
+            "label": "A People's History of the United States",
+            "isbns": [
+                "9780060838652",
+		"9780061968358",
+		"9781583229453"
+            ]
+        },
+        {
+            "label": "Stamped from the Beginning",
+            "isbns": [
+                "9781568584638"
+            ]
+        },
+        {
+            "label": "Stamped",
+            "isbns": [
+                "9780316453691",
+                "9780316453677"
+            ]
+        },
+        {
+            "label": "White Fragility",
+            "isbns": [
+                "9780807047422"
+            ]
+        },
+        {
+            "label": "The New Jim Crow",
+            "isbns": [
+                "9781595588197"
+            ]
+        },
+        {
+            "label": "How to Be An Antiracist",
+            "isbns": [
+                "9780525509288",
+                "9781984832221",
+		"9780525509295"
+            ]
+        },
+        {
+            "label": "Evicted",
+            "isbns": [
+                "9780553447439",
+                "9780553447446",
+		"9780147526809",
+		"9780147526793",
+		"9780553447446"
+            ]
+        },
+        {
+            "label": "Lies My Teacher Told Me",
+            "isbns": [
+                "9780743296281"
+            ]
+        },
+        {
+            "label": "The Color of Law",
+            "isbns": [
+                "9781370669080"
+            ]
+        },
+        {
+            "label": "The Warmth of Other Suns",
+            "isbns": [
+                "9780679444329",
+                "9780679604075"
+            ]
+        },
+        {
+            "label": "The Fire Next Time",
+            "isbns": [
+                "9780792753667"
+            ]
+        },
+        {
+            "label": "Between the World and Me",
+            "isbns": [
+                "9780812993547",
+		"9780451482211",
+		"9780679645986",
+		"9780679645986",
+		"9780147520517",
+		"9780147520517"
+            ]
+        },
+        {
+            "label": "Becoming",
+            "isbns": [
+                "9781524763138",
+		"9780525633679",
+		"9780525633754",
+		"9781524763152",
+		"9780525633709",
+		"9780525633686",
+		"9781524763152"
+            ]
+        },
+		{
+            "label": "An American Marriage",
+            "isbns": [
+                "9781616208776",
+		"9781681688336",
+		"9781616207601",
+		"9781681688343"
+            ]
+        },
+		{
+            "label": "Just Mercy",
+            "isbns": [
+                "9780525580034",
+		"9780812994520",
+		"9780812994537"
+            ]
+        },
+		{
+            "label": "Bad Feminist",
+            "isbns": [
+                "9780062282729"
+            ]
+        }
+    ]
+}
