@@ -1,0 +1,56 @@
+{
+    "label": "Nesmith Book Bites",
+    "description": "Nesmith Book Bites picks",
+    "list": [
+        {
+            "label": "Piranesi",
+            "isbns": [
+                "9781635575637"
+            ]
+        },
+        {
+            "label": "The Regrets",
+            "isbns": [
+                "9780316516167"
+            ]
+        },
+        {
+            "label": "More Than You Know",
+            "isbns": [
+                "9780758283894"
+	    ]
+        },
+        {
+            "label": "Harrow the Ninth",
+            "isbns": [
+                "9781250313225",
+                "9781250313201"
+            ]
+        },
+        {
+            "label": "The Bluest Eye",
+            "isbns": [
+                "9780452273054"
+            ]
+        },
+        {
+            "label": "Speak",
+            "isbns": [
+                "9780374371524"
+            ]
+        },
+        {
+            "label": "The Things They Carried",
+            "isbns": [
+                "9780395515983",
+                "9781455851591"
+            ]
+        },
+        {
+            "label": "The Hate U Give",
+            "isbns": [
+                "9780062498533"
+            ]
+        }
+    ]
+}
