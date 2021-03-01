@@ -102,6 +102,66 @@
                 "9780684830490",
 				"9780743564366"
             ]
+        },
+		{
+            "label": "Monstress",
+            "isbns": [
+                "9781632157096"
+            ]
+        },
+		{
+            "label": "The Midnight Library",
+            "isbns": [
+                "9780525559474"
+            ]
+        },
+		{
+            "label": "Bunker Hill",
+            "isbns": [
+                "9780670025442"
+            ]
+        },
+		{
+            "label": "The Book of Two Ways",
+            "isbns": [
+                "9781984818355"
+            ]
+        },
+		{
+            "label": "The Clocks",
+            "isbns": [
+                "0553350714"
+            ]
+        },
+		{
+            "label": "The Splendid and the Vile",
+            "isbns": [
+                "9780385348713"
+            ]
+        },
+		{
+            "label": "Mexican Gothic",
+            "isbns": [
+                "9780525620785"
+            ]
+        },
+		{
+            "label": "The House in the Cerulean Sea",
+            "isbns": [
+                "9781250217288"
+            ]
+        },
+		{
+            "label": "American Royals",
+            "isbns": [
+                "9781984830173"
+            ]
+        },
+		{
+            "label": "The How Not to Diet Cookbook",
+            "isbns": [
+                "9781250199256"
+            ]
         }
     ]
 }
